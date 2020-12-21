@@ -8,7 +8,7 @@
     "aframe-meshline-component": "^0.2.0",
     "browserify": "^13.1.1",
     "d3": "3",
-    "lodash": "^4.17.2"
+    "lodash": "^4.17.19"
   },
   "devDependencies": {},
   "scripts": {
